@@ -84918,8 +84918,10 @@ s=1
 break
 case 1:return A.S(q,r)}})
 return A.T($async$uo,r)},
-aJ(){this.bH()
-this.uo()},
+aJ(){var s=this
+s.bH()
+s.w=s.r=0
+s.uo()},
 G(a){var s=null,r=a.H(t.w).f.a,q=t.p
 return A.m8(A.mW(B.x,s,s,s,s),A.bT(A.a([B.Nd,A.d1(A.a([new A.yN(r,B.hZ,"SALES",this.r,s),new A.yN(r,B.Eo,"TICKETS",this.w,s)],q),B.q,B.n,B.o,s)],q),B.q,B.n,B.o),B.bZ,s)}}
 A.amw.prototype={
