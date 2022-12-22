@@ -84918,19 +84918,19 @@ s=1
 break
 case 1:return A.S(q,r)}})
 return A.T($async$uo,r)},
-aJ(){var s=this
-s.bH()
-s.w=s.r=0
-s.uo()},
+aJ(){this.bH()
+this.uo()},
 G(a){var s=null,r=a.H(t.w).f.a,q=t.p
 return A.m8(A.mW(B.x,s,s,s,s),A.bT(A.a([B.Nd,A.d1(A.a([new A.yN(r,B.hZ,"SALES",this.r,s),new A.yN(r,B.Eo,"TICKETS",this.w,s)],q),B.q,B.n,B.o,s)],q),B.q,B.n,B.o),B.bZ,s)}}
 A.amw.prototype={
-$0(){var s,r,q,p,o=this.a,n=this.b
-n=o.e=n.gf_(n)
-for(s=n.length,r=0;r<n.length;n.length===s||(0,A.J)(n),++r){q=n[r]
-p=J.aO(q)
-o.r=o.r+A.bR(J.ay(p.b3(q),"amountpaid"))
-o.w=o.w+A.bR(J.ay(p.b3(q),"noofapasengers"))}},
+$0(){var s,r,q,p,o,n=this.a
+n.e=[]
+s=this.b
+s=n.e=s.gf_(s)
+for(r=s.length,q=0;q<s.length;s.length===r||(0,A.J)(s),++q){p=s[q]
+o=J.aO(p)
+n.r=n.r+A.bR(J.ay(o.b3(p),"amountpaid"))
+n.w=n.w+A.bR(J.ay(o.b3(p),"noofapasengers"))}},
 $S:0}
 A.yN.prototype={
 G(a){var s=this,r=null,q=a.H(t.w).f.a.a<650?s.c.b*0.15:100,p=A.d4(10)
