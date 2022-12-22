@@ -84840,8 +84840,10 @@ s=1
 break
 case 1:return A.S(q,r)}})
 return A.T($async$uq,r)},
-aJ(){this.bH()
-this.jX()},
+aJ(){var s=this
+s.bH()
+s.z=s.y=s.x=0
+s.jX()},
 G(a){var s,r,q,p=this,o=null,n=t.w,m=a.H(n).f,l=A.mW(B.x,o,o,o,o),k=p.d.a.c.h(0,"email")
 k.toString
 k=A.aJ("Welcome, "+k,o,o,o,o,o,o,o,o)
